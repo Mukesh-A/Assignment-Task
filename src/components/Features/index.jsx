@@ -2,7 +2,7 @@ import React from "react";
 
 import MessageIcon from "../../assets/messageIcon.png";
 import FlashIcon from "../../assets/flashIcon.png";
-import ShareIcon from "../../assets/shareIcon.png";
+import ShareIcon from "../../assets/ShareIcon.png";
 import MessageSmileIcon from "../../assets/smileIcon.png";
 import WindowIcon from "../../assets/windowIcon.png";
 import MessageHeartIcon from "../../assets/messageHeartIcon.png";

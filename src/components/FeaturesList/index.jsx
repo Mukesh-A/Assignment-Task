@@ -2,7 +2,7 @@ import React from "react";
 
 import MessageIcon from "../../assets/messageIcon.png";
 import FlashIcon from "../../assets/flashIcon.png";
-import ShareIcon from "../../assets/shareIcon.png";
+import ShareIcon from "../../assets/ShareIcon.png";
 import FeatureListItem from "./FeatureListItem";
 const FeatureList = () => {
   const features = [
